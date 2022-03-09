@@ -1,4 +1,11 @@
-body {
-    background-image: url("file:///home/shannon/Downloads/andrea-de-santis-vwnkvet865k-unsplash.jpg");
-    background-color: #cccccc;
+.body {
+    background-image: url('Images/zero-take-KcZWqs5zraY-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
    }
+ .featured-item{
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     padding: 1.5rem;
+     margin-bottom: 1rem;text-align: center;
+     color: rgb(84, 75, 211);
+ }   
